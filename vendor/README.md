@@ -1,3 +1,3 @@
 # my-subproject
-changed from parent
-changed from subproject
+* changed from parent
+* changed from subproject
